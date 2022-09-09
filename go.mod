@@ -1,4 +1,4 @@
-module log-lib
+module github.com/PatrickDei/log-lib
 
 go 1.18
 
